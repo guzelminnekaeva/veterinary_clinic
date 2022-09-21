@@ -1,0 +1,14 @@
+C:\Users\Guzel\source\repos\TClient\bin\Debug\TClient.exe.config
+C:\Users\Guzel\source\repos\TClient\bin\Debug\TClient.exe
+C:\Users\Guzel\source\repos\TClient\bin\Debug\TClient.pdb
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.csproj.AssemblyReference.cache
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.Form1.resources
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.Properties.Resources.resources
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.csproj.GenerateResource.cache
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.csproj.CoreCompileInputs.cache
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.exe
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.pdb
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.Form2.resources
+C:\Users\Guzel\source\repos\TClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guzel\source\repos\TClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guzel\source\repos\TClient\obj\Debug\TClient.Form3.resources
